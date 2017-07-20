@@ -1,0 +1,23 @@
+<tabs>
+    <tab
+        id="@+id/tab_news"
+        icon="@drawable/ic_news"
+        title="News"
+        />
+    <tab
+        id="@+id/tab_memes"
+        icon="@drawable/ic_meme"
+        title="Memes" />
+    <tab
+        id="@+id/tab_highlights"
+        icon="@drawable/ic_highlights"
+        title="Matches" />
+    <tab
+        id="@+id/tab_scores"
+        icon="@drawable/ic_live_scores"
+        title="Scores" />
+    <tab
+        id="@+id/tab_videos"
+        icon="@drawable/ic_videos"
+        title="Videos" />
+</tabs>
